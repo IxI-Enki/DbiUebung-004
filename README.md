@@ -9,10 +9,11 @@
     > *Erst alle ( Hilfs- )*`FUNCTIONS` *kompilieren, dann kann die Ausgabe ausgeführt werden*!  
     </div>
 
-    - CALC_PLAYER_BONUS( PLAYERNO ): 
-    |    Nur die Werte:                                  |  Formatiert:                                          |
-    |:--------------------------------------------------:|:-----------------------------------------------------:|
-    | <img src="img/output.png" alt="output" width=100%> | <img src="img/outputAll.png" alt="output" width=100%> |
+    - CALC_PLAYER_BONUS( PLAYERNO ):
+    
+    |    Nur die Werte:                                  |  Formatiert:                                          |  
+    |:---------------------------------------------------|:------------------------------------------------------|  
+    | <img src="img/output.png" alt="output" width=70%> | <img src="img/outputAll.png" alt="output" width=100%> |  
 
 </div>
 
