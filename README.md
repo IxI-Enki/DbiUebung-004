@@ -50,7 +50,7 @@
       CREATE or REPLACE 
                 FUNCTION 
                         CALC_PLAYER_BONUS( player_Num in NUMBER )
-      ---------------------------------------------------------------------     ----------
+      ---------------------------------------------------------------------
       RETURN VARCHAR 
         IS
             money   NUMBER := 0
@@ -59,7 +59,8 @@
           ; sumLose NUMBER := 0
         -- - - - - - - - - - - - --
           ; tempM   matches%ROWTYPE
-          ; CURSOR  m is SELECT * FROM matches WHERE player_Num = PLAYERNO      ORDER BY PLAYERNO 
+          ; CURSOR  m is SELECT * FROM matches WHERE player_Num = PLAYERNO
+              ORDER BY PLAYERNO 
         -- - - - - - - - - - - - --
           ; sol Varchar(90) 
           ;
@@ -149,12 +150,4 @@
         -- - - - - - - - - - - - --
         close t;
       END;
-            ```
-      ```SQL
-      ```
-      ```SQL
-      ```
-      ```SQL
-      ```
-      ```SQL
-      ```
+      ``` 
