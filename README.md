@@ -4,17 +4,18 @@
   
   # PLSQL - `CURSOR` 
 
-  - <div align="left"> Fertige Ausgabe: 
-  
-    > *Erst alle ( Hilfs- )*`FUNCTIONS` *kompilieren, dann kann die Ausgabe ausgeführt werden*!  
-
-  - CALC_PLAYER_BONUS( PLAYERNO ):
+  - <div align="left"> 
+    
+    $\Large\color{lime}{Funktion:}$ CALC_PLAYER_BONUS( PLAYERNO ):
+    
+    - Fertige Ausgabe:  
+      > *Erst alle ( Hilfs- )*`FUNCTIONS` *kompilieren, dann kann die Ausgabe ausgeführt werden*!  
 
   </div>
 
   |    Nur die Werte:                                  |  Formatiert:                                          |  
   |:---------------------------------------------------|:------------------------------------------------------|  
-  | <img src="img/output.png" alt="output" width=70%>  | <img src="img/outputAll.png" alt="output" width=100%> |  
+  | <img src="img/output.png" alt="output" width=67%>  | <img src="img/outputAll.png" alt="output" width=100%> |  
 
 ---
 
